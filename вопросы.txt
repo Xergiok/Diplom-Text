@@ -1,0 +1,24 @@
+Как улучшить/доработать программу? 
+Как её проверить, нужны фото.
+
+
+https://www.nrcan.gc.ca/maps-tools-and-publications/satellite-imagery-and-air-photos/tutorial-fundamentals-remote-sensing/satellites-and-sensors/multispectral-scanning/9337
+
+https://sentinels.copernicus.eu/documents/247904/685211/Sentinel-2_User_Handbook
+
+Во введении упомянуты:
+- актуальность
+- новизна
+- цель исследования
+- форма результата
+
+Могуть быть добавлены части:
+- практическая и научная значимость
+- положения, выносимые на защиту
+- апробация работы и публикации (вряд ли)
+- личный вклад автора (!)
+- структура и объём
+
+Вопросы
+
+- не уверен насчёт угла обзора в 20,6 - написал под картинкой
